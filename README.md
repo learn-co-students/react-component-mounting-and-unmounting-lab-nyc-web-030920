@@ -35,7 +35,7 @@ notice a `setCurrentTime()` method already exits, but it is not yet called.
 Create a `componentDidMount()` method in `<Game />` which will call the
 `setCurrentTime()` when the component is first created. If you've done that
 correctly, you should see the current time at the top of the page.
-
+<!-- DONE -->
 ## Pancake needs a timer!
 
 Now it's time to implement the actual pancake cooking part of the game. Firstly,
